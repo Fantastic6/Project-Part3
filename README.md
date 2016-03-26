@@ -2,9 +2,9 @@
 
 ## Requirements
 
-1. Simualtor, packaged as a file
+1. Simualator, packaged as a file
 2. Minor changes to CPU. 
-3. Instructions
+3. Two Other Instructions For Halt and Trap
 4. Program 2
 
 ## Tasks
