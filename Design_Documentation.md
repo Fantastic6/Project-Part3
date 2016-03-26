@@ -34,3 +34,18 @@ Two new instrictions were added:
 1. HLT -  Opcode: 0  --> Stops the machine
 2. TRAP - Opcode: 36 --> Sets the trap code which is MFR[1] to true. Stores PC + 1 into memory location 2. It fetches the instruction at memory location 0 into PC. That is the next instruction that is executed to handle the trap or machine fault. 
 
+
+## Program 2
+
+The program will be read into memory. 
+
+After the PC is set, the user will input the length of the word that he or she wants to search for. 
+
+Then, he or she will enter the word one character at a time. For example if it is "dog", the user enters, 'd', followed by enter, 'o', followed by enter, and 'g' followed by enter. 
+
+The program then searches the paragraph to see if it contains the word. 
+
+If it does, it will print the word, sentence number, and word number in the sentence. 
+
+Then, it will quit and that's all, folks.
+
